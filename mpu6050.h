@@ -39,7 +39,6 @@
 #define MPU6050_GYRO_500_SENS			( 65.5  )
 #define MPU6050_GYRO_1000_SENS			( 32.8  )
 #define MPU6050_GYRO_2000_SENS			( 16.4  )
-#define MPU6050_GYRO_Default_sens		( 131.0 )
 
 #define GYRO_TEST_CAL_VALUE				( 500 )
 
